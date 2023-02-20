@@ -1,7 +1,7 @@
 # Lexical-Analyzer
 
 ## The Problem: 
-  Using a Direct Finite Automata, disect and list all lexemes of an input file and their identified token value.
+  Using a Deterministic Finite Automata, disect and list all lexemes of an input file and their identified token value.
 
 ## Contributions:
 Designed as a class project for Computer Systems II
